@@ -1,0 +1,14 @@
+package com.SpringBoot;
+
+public class BeanLifeCycleInterface {
+
+	public void construct()
+	{
+		
+	}
+	
+	public void destroy()
+	{
+		
+	}
+}

@@ -1,0 +1,20 @@
+package com.SpringBoot;
+
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+@Component()
+public class BeanLifeCycleAnnotation {
+	
+	@PostConstruct()
+	public void construct()
+	{
+		System.out.println("Constructed...");
+	}
+	
+	@PreDestroy
+	public void destroy()
+	{
+		System.out.println("Destroyed...");
+	}
+
+}

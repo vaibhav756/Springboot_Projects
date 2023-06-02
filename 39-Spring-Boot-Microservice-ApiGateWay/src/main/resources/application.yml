@@ -1,0 +1,13 @@
+server:
+  port: 3333
+  
+spring:  application:    name: CLOUD-API-GATEWAY
+    
+  cloud:    gateway:      routes:      - id: stock-price-api
+        uri: lb://STOCK-PRICE-API
+        predicates:
+        - Path= /price/{companyName}
+      - id: stock-calc-api
+        uri: lb://STOCK-PRICE-CALC-API
+        predicates:
+        - Path= /calc/{companyName}/{qty}

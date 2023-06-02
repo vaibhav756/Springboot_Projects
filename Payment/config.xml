@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+  <bean id="debit" class="com.payment.DebitCardPayment"></bean>
+  <bean id="credit" class="com.payment.CreditCardPayment"></bean>
+  <bean id="amex" class="com.payment.AmexCardPayment"></bean>
+  <bean id="payment" class="com.payment.PayBill">
+  <!-- <property name="payment" ref="credit"></property>  -->
+  <constructor-arg ref="credit"></constructor-arg>
+  </bean>
+
+
+</beans>

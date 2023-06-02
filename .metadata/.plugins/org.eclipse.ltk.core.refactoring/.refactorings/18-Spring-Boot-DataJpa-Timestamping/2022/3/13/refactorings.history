@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.SpringBoot.repository.EmployeeRepository&apos; to &apos;StudentRepository&apos;&#x0D;&#x0A;- Original project: &apos;18-Spring-Boot-DataJpa-Timestamping&apos;&#x0D;&#x0A;- Original element: &apos;com.SpringBoot.repository.EmployeeRepository&apos;&#x0D;&#x0A;- Renamed element: &apos;com.SpringBoot.repository.StudentRepository&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EmployeeRepository&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.SpringBoot.repository{EmployeeRepository.java[EmployeeRepository" matchStrategy="1" name="StudentRepository" qualified="false" references="true" similarDeclarations="false" stamp="1648196349085" textual="false" version="1.0"/>
+</session>

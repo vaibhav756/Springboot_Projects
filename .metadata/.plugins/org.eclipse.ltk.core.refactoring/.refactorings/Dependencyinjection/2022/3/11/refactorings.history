@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;DependencyInjection&apos;&#x0D;&#x0A;- Original project: &apos;DependencyInjection&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.dependency.Car.java&#x0D;&#x0A;     com.dependency.Engine.java&#x0D;&#x0A;     com.dependency.IEngine.java" description="Delete elements" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dependency{Engine.java" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dependency{IEngine.java" element3="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dependency{Car.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1646544767652" subPackages="false" version="1.0"/>
+</session>

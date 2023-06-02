@@ -1,0 +1,13 @@
+package com.SpringBoot;
+
+import org.springframework.boot.CommandLineRunner;
+
+public class MyCmdRunner implements CommandLineRunner{
+
+	@Override
+	public void run(String... args) throws Exception {
+		System.out.println("CommandLineRunner Executed");
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.SpringBoot.service;
+
+import org.springframework.stereotype.Service;
+
+import com.SpringBoot.dao.IUserImpl;
+
+@Service
+public class IUserService {
+
+	public IUserImpl impl;
+	
+	public void setImpl(IUserImpl impl)
+	
+}

@@ -1,0 +1,16 @@
+package com.SpringBoot;
+
+import org.springframework.beans.factory.InitializingBean;
+
+public class BeanLifeCycleInterface implements InitializingBean,DisposbleBean{
+
+	public void construct()
+	{
+		
+	}
+	
+	public void destroy()
+	{
+		
+	}
+}

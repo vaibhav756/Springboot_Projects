@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="24-Spring-Boot-Tymeleaf"/>
+<aop-project name="10-Spring-Boot-Autowirired-ConstructorInjection"/>
+<aop-project name="36-Spring-Boot-Microservice-Stock-Price-Api"/>
+<aop-project name="20-Spring-Boot-DataJpa-Transaction"/>
+<aop-project name="37-Spring-Boot-Microservice-ServiceRegistry"/>
+<aop-project name="44-Spring-Boot-DataJpa-Practise"/>
+<aop-project name="33-Spring-Boot-RESTAPI-RestTemplate-ClientAppJavaObj"/>
+<aop-project name="22-Spring-Boot-Web-App2"/>
+<aop-project name="36-Spring-Boot-Microservice-ServiceRegistery"/>
+<aop-project name="42-Spring-Boot-Microservice-Security"/>
+<aop-project name="12-Spring-Boot-Runners"/>
+<aop-project name="43-Spring-Practise-Autowired"/>
+<aop-project name="28-Spring-Boot-REST-API-ResponseEntity"/>
+<aop-project name="14-Spring-Boot-DataJpa-QueryByExample"/>
+<aop-project name="36-Spring-Boot-Microservice-Stock-Price-Calc-Api"/>
+<aop-project name="23-Spring-Boot-Web-Form-App"/>
+<aop-project name="14-Spring-Boot-DataJpa-App1"/>
+<aop-project name="37-Spring-Boot-Microservice-Stock-Price-CalC-API"/>
+<aop-project name="38-Spring-Boot-Microservice-ApiGateWay-Zuul"/>
+<aop-project name="17-Spring-Boot-DataJpa-CustomeQueries"/>
+<aop-project name="31-Spring-Boot-REST-API-IRCTC-App"/>
+<aop-project name="11-Spring-Boot-Autowirired-FieldInjection"/>
+<aop-project name="22-Spring-Boot-Web-QueryAndPathParam"/>
+<aop-project name="19-Spring-Boot-DataJpa-CompositePK"/>
+<aop-project name="30-Spring-Boot-REST-API-ContentTypeAndConsume"/>
+<aop-project name="41-Spring-Boot-Microservice-AdminServer-Client-2"/>
+<aop-project name="18-Spring-Boot-DataJpa-Timestamping"/>
+<aop-project name="37-Spring-Boot-Microservice-Stock-Price-Api"/>
+<aop-project name="35-Spring-Boot-RESTAPI-ExceptionHandling"/>
+<aop-project name="13-Spring-Boot-Bean-LifeCycle"/>
+<aop-project name="16-Spring-Boot-DataJpa-FindByMethods"/>
+<aop-project name="21-Spring-Boot-Web-App1"/>
+<aop-project name="24-Spring-Boot-Hibernate"/>
+<aop-project name="39-Spring-Boot-Microservice-ApiGateWay"/>
+<aop-project name="28-Spring-Boot-REST-API-QueryAndPathParam"/>
+<aop-project name="34-Spring-Boot-RESTAPI-WebClient-AsynCall"/>
+<aop-project name="33-Spring-Boot-RESTAPI-RestTemplate-ClientAppForIRCTC"/>
+<aop-project name="41-Spring-Boot-Microservice-AdminServer-Client-1"/>
+<aop-project name="15-Spring-Boot-DataJpa-JpaRepository"/>
+<aop-project name="9-Spring-Boot-Autowirired-SetterInjection"/>
+<aop-project name="32-Spring-Boot-RESTAPI-RestTemplate-ClientApp"/>
+<aop-project name="40-Spring-Boot-Microservice-AdminServer"/>
+<aop-project name="14-Spring-Boot-DataJpa-PagingAndSorting"/>
+<aop-project name="29-Spring-Boot-REST-API-AcceptAndProduces"/>
+</aop-reference-model>

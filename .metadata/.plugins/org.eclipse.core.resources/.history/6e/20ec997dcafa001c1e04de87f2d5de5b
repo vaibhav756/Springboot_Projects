@@ -1,0 +1,11 @@
+package com.SpringBoot;
+
+public class BeanLifeCycleAnnotation {
+	
+	@PostConstruct()
+	public void construct()
+	{
+		
+	}
+
+}

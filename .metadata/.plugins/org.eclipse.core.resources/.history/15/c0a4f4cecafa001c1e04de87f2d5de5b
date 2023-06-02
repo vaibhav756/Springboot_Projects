@@ -1,0 +1,10 @@
+package com.SpringBoot;
+
+public class BeanLifeCycleInterface {
+
+	public void construct()
+	{
+		
+	}
+	
+}

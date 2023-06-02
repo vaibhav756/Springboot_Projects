@@ -1,0 +1,18 @@
+package com.SpringBoot;
+
+import javax.annotation.PostConstruct;
+
+public class BeanLifeCycleAnnotation {
+	
+	@PostConstruct()
+	public void construct()
+	{
+		
+	}
+	
+	public void destroy()
+	{
+		
+	}
+
+}

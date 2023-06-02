@@ -1,0 +1,5 @@
+package com.SpringBoot.service;
+@Service
+public class IUserService {
+
+}

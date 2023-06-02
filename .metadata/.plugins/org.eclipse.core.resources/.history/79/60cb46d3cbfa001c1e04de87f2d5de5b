@@ -1,0 +1,19 @@
+package com.SpringBoot;
+
+import org.springframework.beans.factory.DisposableBean;
+import org.springframework.beans.factory.InitializingBean;
+@Component()
+public class BeanLifeCycleInterface implements InitializingBean,DisposableBean{
+
+	@Override
+	public void afterPropertiesSet() throws Exception {
+		System.out.println("Pre Implemented Interface");
+		
+	}
+
+	@Override
+	public void destroy() throws Exception {
+      System.out.println("Post Implemented Interface");
+		
+	}
+}
